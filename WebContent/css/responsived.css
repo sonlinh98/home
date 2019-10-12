@@ -1,0 +1,147 @@
+/* các sử lý định dạng responsived*/
+.row{width:100%; padding: 5px 0;}
+.heading{background: #aaa; padding: 10px 0;
+	text-transform: uppercase;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+
+
+.elements{background: #eee;}
+
+.c1, .c2, .c3, .c4, .c5, .c6, .c7, .c8, .c9, .c10, .c11, .c12{
+	float: left;
+	padding: 1px 0;
+	position: relative;
+}
+.c1{
+	width:8.33%;
+}
+.c2{
+	width:16.67%;
+}
+.c3{
+	width:25%;
+}
+.c4{
+	width:33.33%;
+}
+.c5{
+	width:41.67%;
+}
+.c6{
+	width:50%;
+}
+.c7{
+	width:58.33%;
+}
+.c8{
+	width:66.67%;
+}
+.c9{
+	width:75%;
+}
+.c10{
+	width:83.33%;
+}
+.c11{
+	width:91.67%;
+}
+.c12{
+	width:100%;
+}
+	
+
+
+
+
+
+.c_10, .c20, .c30, .c40, .c50, .c60, .c70, .c80, .c90{float:left;}
+.c_10{width:10%;}
+.c40{width: 40%;}
+.c60{width: 60%;}
+
+.labels span{
+	text-align: right;
+	font-weight: bold;
+	padding-right: 10px;
+	display: block;
+	padding-bottom: 6px;
+	padding-top: 6px;
+}
+.fields input, .fields textarea, .fields select{
+	width: 80%;
+}
+.fields label{
+	padding-top: 5px;
+	display: inline-block;
+}
+.fields iframe {
+	width: 99%;
+}
+.roles input{
+	width: auto;
+}
+.roles label{
+	padding-top: 0px;
+}
+
+
+
+.accounts {
+	text-align: center;
+	padding: 12px 0;
+}
+
+.buttons{
+	text-align: center;
+	border-top:  1px solid #ddd;
+	padding: 15px 0;
+}
+.aleft{text-align: left;}
+.acenter{text-align: center;}
+.aright{text-align: right;}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+.ml10 {
+	margin-left: 10px;
+}
+.ml20{
+	margin-left: 20px;
+}
+.mr10{
+	margin-right: 10px;
+}
+.mr20{
+	margin-right: 20px;
+}
+
+.mt10{
+	margin-top: 10px;
+}
+.mt20{
+	margin-top: 20px;
+}
+.mb10{
+	margin-bottom: 10px;
+}
+.mb20{
+	margin-bottom: 20px;
+}
+
+.mt50 {
+	margin-top: 50px;
+}
+.mt70 {
+	margin-top: 70px;
+}
+
+.clr{clear: both;}
+
+
